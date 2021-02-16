@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.scss';
-import Appli from './Appli';
+import Signet from './Signet';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Appli />
+    <Signet />
   </React.StrictMode>,
   document.getElementById('racine')
 );
